@@ -141,6 +141,6 @@ RUN pip install --no-cache-dir \
 		Werkzeug==0.12.2 \
 		oss2==2.3.3 \
 		pycrypto==2.6.1 \
-		redis==2.10.6 \
+		redis==2.10.6
 
 CMD ["python3"]
